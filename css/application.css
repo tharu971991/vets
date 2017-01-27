@@ -1,6 +1,7 @@
-body{
+/*body{
   width: 100%
-}
+}*/
+
 .section-image{
   background-repeat: no-repeat;
   background-position: center center;
@@ -90,7 +91,7 @@ div ul li a{
 .header-text-gap {
   margin-top: 150px;
   margin-bottom:50px;
-  line-height: 0.667;
+  /*line-height: 0.667;*/
   font-size: 30px;
   font-family: "OpenSans";
 }
